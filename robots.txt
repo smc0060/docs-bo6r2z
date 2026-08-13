@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ti5rh2.juragan89.online/sitemap.xml
